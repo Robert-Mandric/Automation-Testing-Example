@@ -1,1 +1,1 @@
-# Automation-Testing-Example
+# AutomationTesting-LogInTest
